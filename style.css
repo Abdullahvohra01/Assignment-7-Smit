@@ -1,0 +1,95 @@
+.tables table{
+
+text-align: center;
+margin-top: 120px;
+height: 500px;
+
+    
+}
+
+.tables th{
+background-color: blanchedalmond;
+}
+
+.tables td{
+    background-color: burlywood;
+    }
+    
+
+
+ 
+    /* 2nd */
+
+
+.Nested table{
+        text-align: center;
+        margin-top: px;
+        margin-left: 160px;
+        height: px;
+        width: 200px;
+        
+
+ }
+
+
+.Nested th{
+        background-color: blanchedalmond;
+      }
+
+.Nested td{
+            background-color: burlywood;
+            padding: 10px;
+            
+}
+
+
+/* 3rd */
+
+
+.Athletic table{
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 160px;
+    height: 200px;
+    width: 900px;
+    
+}
+
+
+
+.Athletic th{
+    background-color: blanchedalmond;
+  }
+
+.Athletic td{
+        background-color: burlywood;
+        padding: 10px;
+        
+}
+
+
+/* 4th */
+
+
+.Subject table{
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 160px;
+    height: 200px;
+    width: 900px;
+}
+
+
+
+.Subject th{
+    background-color: blanchedalmond;
+    /* text-align: center; */
+  }
+
+.Subject td{
+        background-color: burlywood;
+        padding: 10px;
+        /* text-align: center; */
+
+        
+}
